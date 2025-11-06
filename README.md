@@ -35,20 +35,17 @@ O destino do reino está em suas mãos.
 
 ## 🎥 **Vídeo do Jogo em Execução (Gameplay)**
 
-![JogoRPG](https://github.com/user-attachments/assets/9fabed2b-bf8f-4eb6-a829-3aadbaf67da5)
+![Clique para assistir!](https://github.com/user-attachments/assets/9fabed2b-bf8f-4eb6-a829-3aadbaf67da5)
 
 ---
 
 ## 🖼️ **Prints do Jogo**
 
-### 🏰 Tela Principal  
-![Tela Inicial](imagens/tela_inicial.png)
-
 ### ⚔️ Batalha contra os inimigos  
 <img width="1083" height="801" alt="Image" src="https://github.com/user-attachments/assets/4ac6aa40-7451-423c-8275-c6784e76032a" />
 
 ### 💀 Inimigos avançando  
-![Inimigos](imagens/inimigos.png)
+<img width="661" height="686" alt="Image" src="https://github.com/user-attachments/assets/a73f773c-3fbb-4cd4-83fb-d214128a4b30" />
 
 ---
 
