@@ -35,10 +35,7 @@ O destino do reino está em suas mãos.
 
 ## 🎥 **Vídeo do Jogo em Execução (Gameplay)**
 
-📽️ **Assista ao vídeo completo da gameplay:**  
-👉 [Clique aqui para assistir no YouTube](https://youtu.be/SEU_LINK_AQUI)  
-
-*(Substitua o link acima pelo link real do seu vídeo no YouTube ou Google Drive.)*
+![JogoRPG](https://github.com/user-attachments/assets/9fabed2b-bf8f-4eb6-a829-3aadbaf67da5)
 
 ---
 
