@@ -45,7 +45,7 @@ O destino do reino está em suas mãos.
 ![Tela Inicial](imagens/tela_inicial.png)
 
 ### ⚔️ Batalha contra os inimigos  
-![Batalha](imagens/batalha.png)
+<img width="1083" height="801" alt="Image" src="https://github.com/user-attachments/assets/4ac6aa40-7451-423c-8275-c6784e76032a" />
 
 ### 💀 Inimigos avançando  
 ![Inimigos](imagens/inimigos.png)
